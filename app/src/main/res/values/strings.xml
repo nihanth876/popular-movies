@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="popular">Popular Movies</string>
+    <string name="top">Top Rated Movies</string>
+    <string name="backdrop">backdrop image</string>
+    <string name="poster">poster image</string>
+    <string name="collapse">collapse bar image</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="release">Release Date</string>
+    <string name="sort1">Sort By Popularity</string>
+    <string name="sort2">Sort By Top Rating</string>
+    <string name="reviews">Click here to read reviews</string>
+    <string name="fav">favorites</string>
+    <string name="content">content</string>
+    <string name="author">Author</string>
+
+</resources>
